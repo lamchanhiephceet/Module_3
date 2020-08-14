@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TH_CustomerManagement:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="744272c4-d884-4b5e-a91e-8e73203a02fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/.idea/artifacts/CaseStudyModule3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/CaseStudyModule3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/WEB-INF/page-about.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/WEB-INF/page-contact.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/WEB-INF/single-audio.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/WEB-INF/single-standard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/WEB-INF/single-video.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/WEB-INF/style-guide.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/category.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fa-brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fa-brands.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fa-regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fa-regular.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fa-solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fa-solid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fontawesome-all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fontawesome-all.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/css/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/font-awesome/webfonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/css/vendor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/avatars/user-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/avatars/user-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/avatars/user-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/avatars/user-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/avatars/user-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/icon-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/icon-location@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/icons/icon-arrow-left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/icons/icon-arrow-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/icons/icon-arrow-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/icons/icon-mail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/icons/icon-minus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/icons/icon-plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/icons/icon-search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/sample-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/about/about-1000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/about/about-2000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/about/about-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/contact/contact-1000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/contact/contact-2000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/contact/contact-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/featured/featured-beetle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/featured/featured-guitarman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/featured/featured-watch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/avian-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/avian-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/beetle-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/beetle-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/flowers-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/flowers-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/fuji-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/fuji-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/guitarist-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/guitarist-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/jump-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/jump-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/lamp-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/lamp-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/music-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/music-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/shutterbug-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/shutterbug-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/sydney-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/sydney-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/tulips-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/tulips-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/watch-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/watch-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/wheel-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/wheel-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/woodcraft-400.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/post/woodcraft-800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/single/standard/standard-1000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/single/standard/standard-2000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/single/standard/standard-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/small/beetle-150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/small/cookies-150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/small/salad-150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/small/shutterbug-150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/small/tulips-150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/thumbs/small/wheel-150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/wheel-1000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/wheel-2000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/images/wheel-500.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/js/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModule3/web/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_CrawlTinTucOptional/src/CrawlNewsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_CrawlTinTucOptional/src/CrawlNewsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ProductManagement/.idea/artifacts/BT_ProductManagement_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ProductManagement/.idea/artifacts/BT_ProductManagement_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ProductManagement/BT_ProductManagement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ProductManagement/BT_ProductManagement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ProductManagement/out/artifacts/BT_ProductManagement_war_exploded/product/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ProductManagement/out/artifacts/BT_ProductManagement_war_exploded/product/delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ProductManagement/out/artifacts/BT_ProductManagement_war_exploded/product/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ProductManagement/out/artifacts/BT_ProductManagement_war_exploded/product/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ProductManagement/out/artifacts/BT_ProductManagement_war_exploded/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ProductManagement/out/artifacts/BT_ProductManagement_war_exploded/product/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ProductManagement/out/artifacts/BT_ProductManagement_war_exploded/product/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ProductManagement/out/artifacts/BT_ProductManagement_war_exploded/product/view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_QuanLySanPhamLuuRaFileNhiPhan/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_SuDungLopIllegalTriangleException/src/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_SuDungLopIllegalTriangleException/src/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_Sử dụng lớp IllegalTriangleException/src/IllegalTriangleException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_Sử dụng lớp IllegalTriangleException/src/triangleException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_TaoGalleryDonGianBootstrap/BT_TaoGalleryDonGianBootstrap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_TaoGalleryDonGianBootstrap/BT_TaoGalleryDonGianBootstrap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_TaoGalleryDonGianBootstrap/src/GalleryLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_TaoGalleryDonGianBootstrap/src/GalleryLayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_TaoGalleryDonGianBootstrap/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_TaoGalleryDonGianBootstrap/src/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_TaoLayoutHtml5Css/src/CreateLayoutHtml5Css.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_TaoLayoutHtml5Css/src/CreateLayoutHtml5Css.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_TaoLayoutHtml5Css/src/MyCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_TaoLayoutHtml5Css/src/MyCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_TaoThreadDonGian/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_TaoThreadDonGian/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ValidateSoDienThoai/src/PhoneNumberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ValidateSoDienThoai/src/PhoneNumberExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ValidateSoDienThoai/src/PhoneNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ValidateSoDienThoai/src/PhoneNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ValidateTenLopHoc/src/ClassNameExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ValidateTenLopHoc/src/ClassNameExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ValidateTenLopHoc/src/ClassNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ValidateTenLopHoc/src/ClassNameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_cai_dat_thuat_toan_sap_xep_chen/src/insertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_cai_dat_thuat_toan_sap_xep_chen/src/insertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_phan_loai_tam_giac/BT_phan_loai_tam_giac.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_phan_loai_tam_giac/BT_phan_loai_tam_giac.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_phan_loai_tam_giac/src/TriangleClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_phan_loai_tam_giac/src/TriangleClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_phan_loai_tam_giac/src/TriangleClassifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_phan_loai_tam_giac/src/TriangleClassifierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_quan_ly_san_pham/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_quan_ly_san_pham/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_quan_ly_san_pham/src/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_quan_ly_san_pham/src/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_quan_ly_san_pham/src/TestProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_quan_ly_san_pham/src/TestProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_refactoringTennisGame/BT_refactoringTennisGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_refactoringTennisGame/BT_refactoringTennisGame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_trien_khai_ArrayList_theo_thu_vien/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_trien_khai_ArrayList_theo_thu_vien/src/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_trien_khai_ArrayList_theo_thu_vien/src/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_trien_khai_ArrayList_theo_thu_vien/src/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_trien_khai_LinkedList_theo_thu_vien/src/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_trien_khai_LinkedList_theo_thu_vien/src/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_trien_khai_Queue_sd_lien_ket_vong/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_trien_khai_Queue_sd_lien_ket_vong/src/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS_demo/src/CSSdemoLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS_demo/src/CSSdemoLayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS_demo/src/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS_demo/src/myStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyModule2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CaseStudyModule2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ComparableCircle/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/src/ComparableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ComparableCircle/src/ComparableCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComparableCircle/src/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ComparableCircle/src/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo_RWD/src/RWDdemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo_RWD/src/RWDdemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraKetThucModule2/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KiemTraKetThucModule2/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraKetThucModule2/src/ContactManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KiemTraKetThucModule2/src/ContactManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KiemTraKetThucModule2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KiemTraKetThucModule2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kiem_tra_tai_lop/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kiem_tra_tai_lop/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kiem_tra_tai_lop/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kiem_tra_tai_lop/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kiem_tra_tai_lop/src/StudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kiem_tra_tai_lop/src/StudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kiem_tra_tai_lop/src/testStudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Kiem_tra_tai_lop/src/testStudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT_TaiLop/category.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LT_TaiLop/category.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT_TaiLop/expire.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LT_TaiLop/expire.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT_TaiLop/out/production/LT_TaiLop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LT_TaiLop/out/production/LT_TaiLop/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT_TaiLop/product.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LT_TaiLop/product.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT_TaiLop/sell.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LT_TaiLop/sell.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT_TaiLop/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LT_TaiLop/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LT_TaiLop/student.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LT_TaiLop/student.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/BOOK.DAT" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/BOOK.DAT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/BOOK.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/BOOK.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/BRM.DAT" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/BRM.DAT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/BRM.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/BRM.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/READER.DAT" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/READER.DAT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/READER.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/READER.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/controller/ControllerUltility.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/controller/ControllerUltility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/controller/DataController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/controller/DataController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/model/BookReaderManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/model/BookReaderManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/model/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/model/Reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/view/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/out/production/BMApp/view/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/src/controller/ControllerUltility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/src/controller/ControllerUltility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/src/controller/DataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/src/controller/DataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/src/model/BookReaderManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/src/model/BookReaderManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/src/model/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/src/model/Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLyThuVien/src/view/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLyThuVien/src/view/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_CrawlDanhSachBaiHat/src/CrawlSongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_CrawlDanhSachBaiHat/src/CrawlSongExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/TH_CustomerManagement_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/TH_CustomerManagement_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TH_CustomerManagement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TH_CustomerManagement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controller/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controller/CustomerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/customer/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/customer/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/customer/delete.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/customer/delete.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/customer/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/customer/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/customer/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/customer/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/customer/view.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/customer/view.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_List_don_gian/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_List_don_gian/src/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_LoginAndShowWeb/out/artifacts/TH_LoginAndShowWeb_war_exploded/WEB-INF/classes/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_LoginAndShowWeb/out/artifacts/TH_LoginAndShowWeb_war_exploded/WEB-INF/classes/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_LoginAndShowWeb/out/production/TH_LoginAndShowWeb/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_LoginAndShowWeb/out/production/TH_LoginAndShowWeb/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_RacingCars/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_RacingCars/src/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_RacingCars/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_RacingCars/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_ServletSimpleDictionary/TH_ServletSimpleDictionary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_ServletSimpleDictionary/TH_ServletSimpleDictionary.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_ServletSimpleDictionary/src/TranslationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_ServletSimpleDictionary/src/TranslationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_ServletSimpleDictionary/web/WEB-INF/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_ServletSimpleDictionary/web/WEB-INF/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_SuDungLopNumberFormatException/src/CalculationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_SuDungLopNumberFormatException/src/CalculationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_Sử dụng lớp NumberFormatException/src/CalculationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_TaoBoCucCoBan/src/LayoutBasicWeb.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_TaoBoCucCoBan/src/LayoutBasicWeb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_TaoBoCucCoBan/src/myStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_TaoBoCucCoBan/src/myStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_TaoBoCucFixedHeader-Footer/src/FixedHeaderFooterLayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_TaoBoCucFixedHeader-Footer/src/FixedHeaderFooterLayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_TaoBoCucFixedHeader-Footer/src/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_TaoBoCucFixedHeader-Footer/src/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/.idea/artifacts/TH_UserManagement_JSP_Servlet_JDBC_MySQL_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/.idea/libraries/jstl_lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/.idea/libraries/taglibs_standard_impl_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/TH_UserManagement_JSP-Servlet-JDBC-MySQL.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/src/controller/UserServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/src/dao/IUserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/src/dao/UserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/src/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/web/lib/jar_files (1).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/web/lib/jar_files.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/web/lib/jsp-api-2.1.jar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/web/lib/jstl-api-1.2.jar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/web/lib/jstl-impl-1.2.jar.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/web/user/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/web/user/edit.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_UserManagement_JSP-Servlet-JDBC-MySQL/web/user/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/.idea/artifacts/TH_java_web_currency_converter_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/TH_java-web-currency-converter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/src/CoverterServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_java-web-currency-converter/web/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_refactoring_method/TH_refactoring_method.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_refactoring_method/TH_refactoring_method.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_refactoring_variable_const/TH_refactoring_variable_const.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_refactoring_variable_const/TH_refactoring_variable_const.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_refactoring_variable_const/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_refactoring_variable_const/src/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_sap_xep_Comparable_Comparator/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_sap_xep_Comparable_Comparator/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_sap_xep_Comparable_Comparator/src/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_sap_xep_Comparable_Comparator/src/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_sap_xep_Comparable_Comparator/src/ageComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_sap_xep_Comparable_Comparator/src/ageComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/.idea/artifacts/User_Management_Jsp_Servlet_Jdbc_Mysql_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/.idea/artifacts/User_Management_Jsp_Servlet_Jdbc_Mysql_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/artifacts/User_Management_Jsp_Servlet_Jdbc_Mysql_war_exploded/WEB-INF/classes/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/artifacts/User_Management_Jsp_Servlet_Jdbc_Mysql_war_exploded/WEB-INF/classes/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/artifacts/User_Management_Jsp_Servlet_Jdbc_Mysql_war_exploded/WEB-INF/classes/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/artifacts/User_Management_Jsp_Servlet_Jdbc_Mysql_war_exploded/WEB-INF/classes/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/artifacts/User_Management_Jsp_Servlet_Jdbc_Mysql_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/artifacts/User_Management_Jsp_Servlet_Jdbc_Mysql_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/production/User-Management-Jsp-Servlet-Jdbc-Mysql/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/production/User-Management-Jsp-Servlet-Jdbc-Mysql/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/production/User-Management-Jsp-Servlet-Jdbc-Mysql/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/out/production/User-Management-Jsp-Servlet-Jdbc-Mysql/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/src/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/src/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../User-Management-Jsp-Servlet-Jdbc-Mysql/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1fa0iJLcwH3ziLkccN8MxaISwRG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TomCat_8.5/apache-tomcat-8.5.57/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.57" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.57" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="TH_CustomerManagement:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/TH_CustomerManagement_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_57_TH_CustomerManagement" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="TH_CustomerManagement:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744272c4-d884-4b5e-a91e-8e73203a02fb" name="Default Changelist" comment="" />
+      <created>1596441021273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596441021273</updated>
+      <workItem from="1596441023523" duration="8799000" />
+      <workItem from="1596464903024" duration="115000" />
+      <workItem from="1596509757447" duration="621000" />
+      <workItem from="1596510612498" duration="20000" />
+      <workItem from="1596510692209" duration="23000" />
+      <workItem from="1596510760211" duration="32000" />
+      <workItem from="1596511268257" duration="49000" />
+      <workItem from="1597071573939" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="40" key="#Project_Structure" timestamp="1596441284054">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="163" y="40" key="#Project_Structure/0.40.1366.728@0.40.1366.728" timestamp="1596441284054" />
+    <state x="764" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1596441669991">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="764" y="113" key="#com.intellij.ide.util.MemberChooser/0.40.1366.728@0.40.1366.728" timestamp="1596441669991" />
+    <state x="413" y="151" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596448485518">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="413" y="151" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1366.728@0.40.1366.728" timestamp="1596448485518" />
+    <state x="389" y="145" key="FileChooserDialogImpl" timestamp="1596509822639">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="389" y="145" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1596509822639" />
+    <state width="905" height="179" key="GridCell.Tab.0.bottom" timestamp="1596510384367">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1596510384367" />
+    <state width="905" height="179" key="GridCell.Tab.0.center" timestamp="1596510384367">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1596510384367" />
+    <state width="905" height="179" key="GridCell.Tab.0.left" timestamp="1596510384367">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1596510384367" />
+    <state width="905" height="179" key="GridCell.Tab.0.right" timestamp="1596510384367">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1596510384367" />
+    <state width="905" height="179" key="GridCell.Tab.1.bottom" timestamp="1596510384367">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.bottom/0.40.1366.728@0.40.1366.728" timestamp="1596510384367" />
+    <state width="905" height="179" key="GridCell.Tab.1.center" timestamp="1596510384367">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.center/0.40.1366.728@0.40.1366.728" timestamp="1596510384367" />
+    <state width="905" height="179" key="GridCell.Tab.1.left" timestamp="1596510384367">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.left/0.40.1366.728@0.40.1366.728" timestamp="1596510384367" />
+    <state width="905" height="179" key="GridCell.Tab.1.right" timestamp="1596510384367">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.1.right/0.40.1366.728@0.40.1366.728" timestamp="1596510384367" />
+    <state width="905" height="179" key="GridCell.Tab.2.bottom" timestamp="1596510384383">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.bottom/0.40.1366.728@0.40.1366.728" timestamp="1596510384383" />
+    <state width="905" height="179" key="GridCell.Tab.2.center" timestamp="1596510384383">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.center/0.40.1366.728@0.40.1366.728" timestamp="1596510384383" />
+    <state width="905" height="179" key="GridCell.Tab.2.left" timestamp="1596510384367">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.left/0.40.1366.728@0.40.1366.728" timestamp="1596510384367" />
+    <state width="905" height="179" key="GridCell.Tab.2.right" timestamp="1596510384383">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="179" key="GridCell.Tab.2.right/0.40.1366.728@0.40.1366.728" timestamp="1596510384383" />
+    <state x="163" y="40" key="SettingsEditor" timestamp="1596509905399">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="163" y="40" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1596509905399" />
+    <state x="65" y="40" key="new project wizard" timestamp="1596464842489">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="65" y="40" key="new project wizard/0.40.1366.728@0.40.1366.728" timestamp="1596464842489" />
+    <state x="417" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1596445302758">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="417" y="89" width="672" height="678" key="search.everywhere.popup/0.40.1366.728@0.40.1366.728" timestamp="1596445302758" />
+  </component>
+</project>
