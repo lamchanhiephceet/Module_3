@@ -1,5 +1,6 @@
 package controller;
 
+import dao.IUserDAO;
 import dao.UserDAO;
 import model.User;
 
@@ -13,14 +14,9 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.util.List;
 
-@WebServlet(name="UserServlet", urlPatterns="/users")
-class UserServlet extends HttpServlet {
-    private static final long serialVersionUID = 1L;
-    private UserDAO userDAO;
-
-    public void init() {
-        userDAO = new UserDAO();
-    }
+@WebServlet(name = "UserServlet", urlPatterns = "/users")
+public class UserServlet extends HttpServlet {
+    private IUserDAO userDAO = new UserDAO();
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
@@ -70,7 +66,7 @@ class UserServlet extends HttpServlet {
     }
 
     private void listUser(HttpServletRequest request, HttpServletResponse response)
-            throws SQLException, IOException, ServletException {
+            throws IOException, ServletException {
         List<User> listUser = userDAO.selectAllUsers();
         request.setAttribute("listUser", listUser);
         RequestDispatcher dispatcher = request.getRequestDispatcher("user/list.jsp");
@@ -84,7 +80,7 @@ class UserServlet extends HttpServlet {
     }
 
     private void showEditForm(HttpServletRequest request, HttpServletResponse response)
-            throws SQLException, ServletException, IOException {
+            throws ServletException, IOException {
         int id = Integer.parseInt(request.getParameter("id"));
         User existingUser = userDAO.selectUser(id);
         RequestDispatcher dispatcher = request.getRequestDispatcher("user/edit.jsp");

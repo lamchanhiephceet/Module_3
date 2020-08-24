@@ -20,10 +20,5 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.5.57" level="application_server_libraries" />
-    <orderEntry type="library" name="Java EE 6-Java EE 6" level="application" />
-    <orderEntry type="library" name="taglibs-standard-impl-1.2.5" level="project" />
-    <orderEntry type="library" name="jsp-api-2.1" level="project" />
-    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
-    <orderEntry type="library" name="jsp-api-2.11" level="project" />
   </component>
 </module>

@@ -6,7 +6,7 @@ import java.util.List;
 import model.User;
 
 public class UserDAO implements IUserDAO {
-    private final String jdbcURL = "jdbc:mysql://localhost:3306/demo?useSSL=false";
+    private final String jdbcURL = "jdbc:mysql://localhost:3306/user?useSSL=false";
     private final String jdbcUsername = "root";
     private final String jdbcPassword = "1205";
 
