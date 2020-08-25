@@ -27,5 +27,6 @@
     <orderEntry type="library" name="popper.js" level="application" />
     <orderEntry type="library" name="all" level="application" />
     <orderEntry type="library" name="mysql-connector-java-8.0.17" level="project" />
+    <orderEntry type="library" name="jsp-api-2.1" level="project" />
   </component>
 </module>

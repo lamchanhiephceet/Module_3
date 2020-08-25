@@ -6,16 +6,17 @@ import java.util.List;
 import model.Student;
 
 public class StudentDAO implements IStudentDAO {
+
     private final String jdbcURL = "jdbc:mysql://localhost:3306/student?useSSL=false";
     private final String jdbcUsername = "root";
     private final String jdbcPassword = "1205";
 
-    private static final String INSERT_STUDENTS_SQL = "INSERT INTO students" + "(code,name,address)VALUES" + "(?,?,?);";
+    private static final String INSERT_STUDENTS_SQL = "INSERT INTO students(code,name,address)VALUES(?,?,?);";
 
     private static final String SELECT_STUDENTS_BY_ID = "select id,code,name,address from students where id =?";
     private static final String SELECT_ALL_STUDENTS = "select * from students";
-    private static final String DELETE_STUDENTS_SQL = "delete from students where id = ?;";
-    private static final String UPDATE_STUDENTS_SQL = "update students set code = ?,name= ?, address =? where id = ?;";
+    private static final String DELETE_STUDENTS_SQL = "DELETE from students WHERE id = ?;";
+    private static final String UPDATE_STUDENTS_SQL = "UPDATE students set code = ?, name = ?, address = ? WHERE id = ?;";
 
     public StudentDAO() {
     }
@@ -23,7 +24,7 @@ public class StudentDAO implements IStudentDAO {
     protected Connection getConnection() {
         Connection connection = null;
         try {
-            Class.forName("com.mysql.cj.jdbc.Driver");
+            Class.forName("com.mysql.jdbc.Driver");
             connection = DriverManager.getConnection(jdbcURL, jdbcUsername, jdbcPassword);
             System.out.println("connect successfully!");
         } catch (SQLException e) {

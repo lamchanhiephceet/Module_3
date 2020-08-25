@@ -23,7 +23,7 @@
     <div class="row"><p></p></div>
     <div class="row">
         <div class="container-fluid">
-            <a href="students?action=addNewStudent" class="btn btn-info">
+            <a href="students?action=create" class="btn btn-info">
                 <i class="fas fa-plus"></i> Add new student
             </a>
 <%--            <form class="form-inline ml-auto float-right" method="post" action="/products?action=search">--%>
@@ -49,10 +49,11 @@
                     <td>${students.getName()}</td>
                     <td>${students.getAddress()}</td>
                     <td>
-                        <a href="${pageContext.request.contextPath}/students?action=editStudent&id=${students.id}" type="button" class="btn btn-primary"><i class="fas fa-pencil-alt"></i></a>
+                        <a href="/students?action=edit&id=${students.id}" type="button" class="btn btn-primary"><i class="fas fa-pencil-alt"></i></a>
                         |
-                        <a href="${pageContext.request.contextPath}/students?action=deleteStudent&id=${students.id}" type="button" class="btn btn-danger"><i class="fas fa-trash-alt"></i></a>
+                        <a href="/students?action=delete&id=${students.id}" type="button" class="btn btn-danger"><i class="fas fa-trash-alt"></i></a>
                     </td>
+
                 </tr>
             </c:forEach>
             </tbody>

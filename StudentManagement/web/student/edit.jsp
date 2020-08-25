@@ -20,28 +20,28 @@
                     Edit Student
                 </h2>
             </caption>
-            <c:if test="${students != null}">
-                <input type="hidden" name="id" value="${students.getId()}"/>
+            <c:if test="${student != null}">
+                <input type="hidden" name="id" value="${student.getId()}"/>
             </c:if>
             <tr>
                 <th>Student Code:</th>
                 <td>
                     <input type="text" name="code" size="45"
-                           value="${students.getCode()}"/>
+                           value="${student.getCode()}"/>
                 </td>
             </tr>
             <tr>
                 <th>Student Name:</th>
                 <td>
                     <input type="text" name="name" size="45"
-                           value="${students.getName()}"/>
+                           value="${student.getName()}"/>
                 </td>
             </tr>
+            <tr>
             <th>Address:</th>
             <td>
                 <input type="text" name="address" size="15"
-                       value="<c:out value='${students.getAddress}' />"
-                />
+                        value="${student.getAddress()}"/>
             </td>
             </tr>
             <tr>

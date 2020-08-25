@@ -12,8 +12,6 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="taglibs-standard-impl-1.2.5" />
-          <element id="library" level="application" name="Java EE 6-Java EE 6 (2)" />
-          <element id="library" level="project" name="servlet-api-2.5-6.0.2" />
           <element id="library" level="project" name="mysql-connector-java-8.0.17" />
         </element>
       </element>
