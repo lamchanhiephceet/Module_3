@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="KiemTraMD3:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a01fadb-4fe0-4f28-b0ca-1e57ef4445cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Casem3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/.idea/artifacts/KetThucModule3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/.idea/libraries/taglibs_standard_spec_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/KetThucModule3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/src/controller/Servlet_Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/src/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/src/model/Categoryhihi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/src/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/web/WEB-INF/views/addNewProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/web/WEB-INF/views/crud.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KetThucModule3/web/WEB-INF/views/editProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/KiemTraMD3_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/taglibs_standard_impl_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/taglibs_standard_impl_1_2_51.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KiemTraMD3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManagement/src/connection/ConnectionSQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentManagement/src/model/Mark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/beans/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/beans/BillDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/beans/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/beans/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/beans/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/beans/OrderDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/beans/OrderMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/constants/GlobalConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/controller/CookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/controller/TableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/dao/CookServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/dao/DBConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/dao/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/AboutUs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/AddCategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/AddItem.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/ContactUs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/HomePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/LoginPage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/Menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/OrderStatus.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/UserHome.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/ViewBill.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/ViewBillToCook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/ViewCategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/ViewItems.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/ViewOrder.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/ViewOrderedItems.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/ViewOrderedItemsList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_ads.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_btn_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_btn_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_footer_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_h1_bg - Copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_h1_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_header_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_header_bg_blank.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_image_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_image_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_image_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_image_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/resources/images/templatemo_menu_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/web/subpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_ProductDiscountCalculator/BT_ProductDiscountCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BT_ProductDiscountCalculator/BT_ProductDiscountCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT_QuanLyTaiKhoanNganHang.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLySinhVien.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLySinhVien.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuanLySinhVien/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QuanLySinhVien/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/WEB-INF/classes/controller/StudentServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/WEB-INF/classes/controller/StudentServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/WEB-INF/classes/dao/StudentDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/WEB-INF/classes/dao/StudentDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/WEB-INF/classes/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/WEB-INF/classes/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/student/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/student/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/student/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/student/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/student/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/out/artifacts/StudentManagement_war_exploded/student/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/out/production/StudentManagement/controller/StudentServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/out/production/StudentManagement/controller/StudentServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/out/production/StudentManagement/dao/StudentDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/out/production/StudentManagement/dao/StudentDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/out/production/StudentManagement/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/out/production/StudentManagement/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/src/controller/StudentServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/src/controller/StudentServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/src/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/src/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/src/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/web/student/create.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/web/student/create.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/web/student/edit.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/web/student/edit.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentManagement/web/student/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentManagement/web/student/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_JavaWebCurrencyConverter/out/artifacts/TH_JavaWebCurrencyConverter_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_JavaWebCurrencyConverter/out/artifacts/TH_JavaWebCurrencyConverter_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH_JavaWebCurrencyConverter/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_JavaWebCurrencyConverter/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/web/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1fyi7lnew5j9g82VPCoxCrnWuJI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TomCat_8.5/apache-tomcat-8.5.57/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar!/" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.57" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.57" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <deployment>
+        <artifact name="KiemTraMD3:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_57_KiemTraMD3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="63344" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="KiemTraMD3:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a01fadb-4fe0-4f28-b0ca-1e57ef4445cc" name="Default Changelist" comment="" />
+      <created>1597196567545</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597196567545</updated>
+      <workItem from="1597196571252" duration="13883000" />
+      <workItem from="1597210746318" duration="397000" />
+      <workItem from="1599622923856" duration="3545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597196787372">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597196787372" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1597199169252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1597199169252" />
+    <state x="389" y="145" key="FileChooserDialogImpl" timestamp="1599624033217">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597196705626" />
+    <state x="389" y="145" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1599624033217" />
+    <state width="905" height="179" key="GridCell.Tab.0.bottom" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.0.center" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.0.left" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.0.right" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.1.bottom" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.1.bottom/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.1.center" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.1.center/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.1.left" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.1.left/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.1.right" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.1.right/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.2.bottom" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.2.bottom/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.2.center" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.2.center/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.2.left" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.2.left/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="179" key="GridCell.Tab.2.right" timestamp="1599626812907">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1597210563189" />
+    <state width="905" height="179" key="GridCell.Tab.2.right/0.40.1366.728@0.40.1366.728" timestamp="1599626812907" />
+    <state width="905" height="72" key="GridCell.Tab.3.bottom" timestamp="1597210522042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597210522042" />
+    <state width="905" height="72" key="GridCell.Tab.3.center" timestamp="1597210522042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1597210522042" />
+    <state width="905" height="72" key="GridCell.Tab.3.left" timestamp="1597210522042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1597210522042" />
+    <state width="905" height="72" key="GridCell.Tab.3.right" timestamp="1597210522042">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="72" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1597210522042" />
+    <state width="285" height="457" key="HiddenNamespacesPopup" timestamp="1597196814167">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="285" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1597196814167" />
+    <state x="163" y="40" key="SettingsEditor" timestamp="1599624057217">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597196741157" />
+    <state x="163" y="40" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1599624057217" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/controller/ProductServlet.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
